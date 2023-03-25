@@ -7,4 +7,5 @@
 </div>
 <div align="center">
    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" />
+   <img src="https://img.shields.io/badge/-HTML-dc4a25?logo=html&logoColor=white&style=plastic" />
 </div>
