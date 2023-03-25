@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm <a href="https://www.carlosadriangarcia.com">Carlos</a>, a Front-End Engineer from Puerto Rico 🇵🇷</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-a-garcia32/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
   </a>
 </div>
 <div align="center">
