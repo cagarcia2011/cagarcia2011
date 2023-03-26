@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
   </a>
 </div>
+</br>
 <div align="center">
   <a href="https://www.carlosadriangarcia.com">
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" />
