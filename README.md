@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://www.carlosadriangarcia.com"><img width="20%" alt="Hi, I'm Carlos, a Front-End Engineer!" src="./assets/avatar-coding.svg"/></a></h1>
 <h2 align="center">Hi, I'm <a href="https://www.carlosadriangarcia.com">Carlos!</a></h2>
-<i align="center">Front-End Engineer from Puerto Rico 🇵🇷</i>
 <div align="center">
+  <i align="center">Front-End Engineer from Puerto Rico 🇵🇷</i>
   <a href="https://www.linkedin.com/in/carlos-a-garcia32/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
   </a>
