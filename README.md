@@ -9,7 +9,7 @@
 </br>
 <div align="center">
   <a href="https://www.carlosadriangarcia.com">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" />
+    <img src="https://img.shields.io/badge/-React.JS-61DAFB?logo=react&logoColor=white&style=plastic" />
   </a>
   <a href="https://www.carlosadriangarcia.com">
     <img src="https://img.shields.io/badge/-Redux-7247b6?logo=redux&logoColor=white&style=plastic" />
