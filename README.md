@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/-React.JS-61DAFB?logo=react&logoColor=white&style=plastic" />
   </a>
   <a href="https://www.carlosadriangarcia.com">
-    <img src="https://img.shields.io/badge/-Redux-7247b6?logo=redux&logoColor=white&style=plastic" />
-  </a>
-  <a href="https://www.carlosadriangarcia.com">
    <img src="https://shields.io/badge/TypeScript-3a75bf?logo=TypeScript&logoColor=FFF&style=plastic" />
   </a>
   <a href="https://www.carlosadriangarcia.com">
